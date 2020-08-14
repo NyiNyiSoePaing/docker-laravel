@@ -20,7 +20,7 @@ Add your entire  project files to the "web" folder.
  vi .env
 ```
 
-# Edit laravel env file in app dir
+### 3.1 Edit laravel env file in app dir
 ```
 cp app/.env.example app/.env
 vi app/.env
